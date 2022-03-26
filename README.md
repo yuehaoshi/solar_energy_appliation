@@ -9,7 +9,8 @@ The first part is to explain solar energy distribution with a visualization mode
 To simulate the solar-earth system, two functions, “spheres” and “orbits” were defined to represent the shape and movement trace of sun and earth with “graph_objects” module in Python Plotly. To better illustrate the visualization effect, the diameter of the earth sphere was made ten times larger than the real size. The system then was constructed with “Layout” method in graph_objects module by applying the sizes of sun and earth in “spheres” function and the distance between sun and earth into the “orbits” function. The generated system is shown as Figure 1 below:
 
 <p align="center">
-  ![picture alt](https://github.com/yuehaoshi/myFiles/blob/main/WebPics/Solar%20Visualization%20Project/SolarVis1.png "Oops, this image disappeared..")
+  <img src="https://github.com/yuehaoshi/myFiles/blob/main/WebPics/Solar%20Visualization%20Project/SolarVis1.png" alt="Oops, this image disappeared.."/>
+  
   Figure 1: Model of earth-solar system
 </p>
 
