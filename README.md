@@ -10,9 +10,8 @@ To simulate the solar-earth system, two functions, “spheres” and “orbits�
 
 <p align="center">
   <img src="https://github.com/yuehaoshi/myFiles/blob/main/WebPics/Solar%20Visualization%20Project/SolarVis1.png" alt="Oops, this image disappeared.."/>
-  
-  Figure 1: Model of earth-solar system
 </p>
+<h3 align="center">Figure 1: Model of earth-solar system</h3>
 
 The goal of this part of the project was to visually illustrate why solar energy varies in the different time and location of the earth surface. To achieve this goal, the color of the earth was modified as gradient color, with brighter color on the side of the earth towards sun, and darker color on the side of the earth backwards to the sun. The surface color of the earth was set to be positively related to the coordinate of the point on the sphere. More specifically, the color of each pixel on the surface of the sphere was set to be proportional to “x0**2 - y0**2 - z0**2”, where x0, y0, and z0 were the coordinates to each point. After changing the surface color, the solar-earth system was shown in the Figure 2 below, where the surface of the earth was brighter in the side closer to the sun and vice versa. This model shows the basic principle of the solar energy application in different places of the earth: generally speaking, the equator area where can get most of the direct sunlight, has more sunlight intensity compared to polar areas of the earth, thus has more efficiency if applied infrastructures by solar energy industry.
 
