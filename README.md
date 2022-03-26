@@ -81,7 +81,7 @@ To better illustrate the relationship between installation tilt and the expected
 </p>
 <h6 align="center">Figure 7: Solar panel light intensity in different tilts and azimuths in 3D</h6>
 
-##References:
+## References:
 - Cornwall, C. et al (2021, November 28). [Solar Position Calculator](https://gml.noaa.gov/grad/solcalc/azel.html), Retrieved November 28, 2021.
 
 - Kharwal, A. (2020, October 22). [Visualize a solar system with python](https://thecleverprogrammer.com/2020/10/07/visualize-a-solar-system-with-python/), Retrieved November 15, 2021.
