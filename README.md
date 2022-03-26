@@ -1,4 +1,4 @@
-# Solar-Energy-Appliation
+# Solar Energy Explorer
 
 This project is to make visualization about solar energy application potential, including explanation of solar energy distribution by solar-earth system model visualization, solar intensity map visualization as well as solar panel installation and usage suggestion for specific locations. The whole project is to be divided into three parts:
 
